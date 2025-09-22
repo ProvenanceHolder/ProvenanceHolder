@@ -43,7 +43,7 @@
 		</string>
 		<string key="impact">
 			<!--
-				reason for the change
+				impact of the change
 			-->
 			<alias mapping="EN" name="impact"/>
 		</string>
