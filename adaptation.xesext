@@ -31,13 +31,13 @@
 		<date key="timestamp">
 			<!--
 				The UTC time at which the change occurred. (when)
+				(the time of the enactment of a change and a change itself are not necessarly the same.
 			-->
 			<alias mapping="EN" name="Timestamp"/>
 		</date>
 		<string key="reason">
 			<!--
 				reason for the change (why)
-				(the time of the enactment of a change and a change itself are not necessarly the same.
 			-->
 			<alias mapping="EN" name="reason"/>
 		</string>
